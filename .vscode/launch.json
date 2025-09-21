@@ -1,0 +1,22 @@
+{
+    // Використовуйте IntelliSense, щоб дізнатися про можливі атрибути.
+    // Наведіть курсор, щоб переглянути описи існуючих атрибутів.
+    // Для отримання додаткової інформації відвідайте: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "GitHubUserStatistics",
+            "request": "launch",
+            "mainClass": "GitHubUserStatistics",
+            "projectName": "training-repo-25_c9593a6d"
+        }
+    ]
+}
